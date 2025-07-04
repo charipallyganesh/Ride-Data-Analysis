@@ -69,6 +69,3 @@ This project analyzes **ride-sharing data from 2011–2020** to:
 • Card KPIs, bar/column, pie, and line charts
 
 • Data modeling & transformation for clean analysis
-
-
-https://github.com/charipallyganesh/Ride-Data-Analysis/blob/main/Ride%20Data%20Analysis%20dashboard%20image%201.pdf
